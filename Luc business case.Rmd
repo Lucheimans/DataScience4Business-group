@@ -36,7 +36,6 @@ Netflix has multiple uses of data analytics to make business decisions based on 
 
 
 
-
 ########### Business case 2
 
 ---
@@ -75,6 +74,53 @@ The difference in low-price listings in the weekend turned out to be statistical
 The analysis and data mining outcome helped in price based decision making  from the host their view (SQL Data Ninja, 2020) as the conclusions offered insight into the difference in pricings of both locations and enabled decision making to decrease the price differences between LA and NY.
 
 SQL Data Ninja, 2020, Retrieved 09/03/2021 from: "https://www.youtube.com/embed/SEXLD02Fw6U"
+
+
+
+
+########### Business case 3
+
+---
+title: "Assigment - Data Driven Business"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QlqI0gGOjo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
+
+## What features define a data driven business?
+
+Features that define a data driven business based on the Shell case study by Bernard Marr (2020):
+- Making strategic decision based on data 
+- Linking data to the measurement of KPI's
+- Seeing data as an equally important in an organization as departements such as finance and/or marketing/sales.
+
+## What are the important features of a data culture?
+
+- The data quality and standards
+- Linking data to the business effectively, so for example to inform KPI' or by creating metrics related to data and business.Also, using data marts effectively to make sure only data which has business value is used in stead of using all data available as this has scaling problems and can turn data into a liability (Dan Jeavons, 2020).
+Having a professional data management process and corresponding high-quality technology which supports the scaling of data.
+- The quality of the data scientists and engineers which work with the data on a daily basis.
+- Having not only people who speak the language of data science but also having people who speak the language of both data science and business.These people are called business translators according to Dan Jeavons (2020) and are vital in a data culture.
+
+## What are the transformation steps towards a mature data driven business?
+
+- An important step is to identify a data strategy. Also, make the data strategy as important as the business.
+- Also, do not try to reinvent the wheel but try to leverage best practices externally,this could be from other companies or even industries. 
+- Moreover, try to link the data usage closely to the business' needs, KPI's and so forth because it is very easy to start working with data without extracting value from it.
+- A two-speed approach can be taken. Such approach means that processes and software are refreshed quickly and frequently (Sven Blumberg et al, 2016). According to Sven Blumberg et al (2016), such approach can ensure a company stays on the fast track and thus maintains a (high) competitive advantage. Also, a two speed approach mitigates risk since platforms are frequently refreshed and updated, making less of a need for big changes in the long-term which often cause hazzard (Sven Blumberg et al, 2016). Transforming a business into a more mature digital organization is a complex matter and by using a two speed approach, this transition can be managed and scaled (Sven Blumberg at al, 2016).
+- creating a highly professional environment for data scientists and engineers to function in.
+
+
+## references
+
+Blumberg, S., Bossert, O., & Laartz, J. (2020, February 13). Deploying a two-speed architecture at scale. McKinsey & Company. Retrieved 25/03/2-21 from https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/deploying-a-two-speed-architecture-at-scale
+
+Bernard Marr, 2020, Retrieved 25/03/2021 from: "https://www.youtube.com/embed/QlqI0gGOjo4"
 
 
 
