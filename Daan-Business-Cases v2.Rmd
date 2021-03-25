@@ -1,0 +1,150 @@
+---
+title: "Assigment - Data Driven Decision Making"
+author: "Daan Plass"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document:
+    toc: yes
+    toc_depth: '2'
+    df_print: paged
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+
+
+## Why was data driven decision making (3DM) useful in this business case?
+
+Because 3DM has allowed Netflix to create a recommendation using various aspects of data mining algorithms, such as similarity matching, clustering and profiling. Through this system the overall time people watch Netflix has increased. 
+
+
+## How did the organization apply 3DM?
+
+
+Using the methods 3DM offers Netflix has been able to use data mining algorithms and have created three recommendation systems.
+
+1. Content based recommendation system --> (Similarity Matching) this means that if you watch a movie/serie from a certain genre you will get recommendations of movies/series from the same genre.
+
+2. Collaborative filtering recommendation system --> (Clustering, Profiling) Netflix uses data from other people that have the same profile as u and recommend movies/series of genres that are frequently watched by that specific group and vice versa. For example, if a person A watches crime, sci-fi and thriller genres and B watches sci-fi, thriller and action genres then A will also like action and B will like crime genre. 
+
+3. Hybrid recommendation system --> this system combines both the content based and collaborative filtering system. 
+
+Besides the recommendation systems above one of the key elements in the recommendation system is Contextual Awareness. This element incorporates the collection of data of location, language, time of the day, device, binging patterns and companion. In order to predict contexts Netflix uses a deep learning technique. Based on the time and periods of watching, Netflix bases its data on various parameters like day, week, season or longer periods such as sportevents like the Olympics. 
+
+
+
+## What can the organization do with 3DM that they couldn't do before?
+
+1. Use algorithms to create a recommendation system. 
+2. 
+
+
+
+---
+title: "Assigment - Data Driven Business"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+  toc: yes
+toc_depth: 2
+---
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/QlqI0gGOjo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  
+## What features define a data driven business?
+
+According to (Andersson, 2016); there are four charecteristics that define a data driven organisation. 
+1. Data is centralized and organized. 
+2. Data governance policies are in place. 
+3. Data is accessible. 
+4. Analytics is integrated into tools. 
+
+Data is as imporant as other parts of the business and has an open environment/community that encourages growth and learning. 
+(With data is meant the entire department that continuesly works on data improvement etc. such as data scientists, analysists, software engineers, etc.)
+
+
+## What are the important features of a data culture?
+
+According to ("4 Characteristics of a Data-Driven Culture," 2020); there are four characteristics that define a date culture. 
+
+1. Democratized data.
+
+2. Data literacy.
+(Piyanka Jain) "the ability to read and use data to draw a meaningful conclusion to power decisions."
+
+3. Data-driven leadership. 
+Creating a infrastructure that supports data-driven processes, leaders must build a open culture where people are comfortable to explore new technologies and propose their own data supported hypotheses. 
+
+4. Decision-making process. 
+
+
+## What are the transformation steps towards a mature data driven business?
+
+Learn what is going on in the market, investigate best practices externally. 
+Investigate how the technologies, culture and standards will be affected by step of becoming a data driven business.
+Setting up KPIs to identify which data is essential and will create value to the company. 
+Making data as important as other parts of the business. Creating a open environment/community that encourages growth and learning. 
+
+
+## References 
+
+Business Case: https://www.youtube.com/watch?v=QlqI0gGOjo4
+[1] Andersson, R. (2016, November 23). 4 characteristics of data-driven organizations-and how to get started. Retrieved February 28, 2021, from https://www.ibm.com/blogs/think/se-sv/2016/04/15/4-characteristics-of-data-driven-organizations-and-how-to-get-started/#:%7E:text=Behind%20their%20success%20there%20are,access%20is%20integrated%20into%20tools.
+[2]4 Characteristics of a Data-Driven Culture. (2020, October 30). Retrieved February 28, 2021, from https://blog.ad-juster.com/4-characteristics-of-a-data-driven-culture/
+[3]
+
+
+
+---
+title: "Assigment - Data Problems vs Data Solutions"
+author: Daan Plass
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+
+<---- <iframe width="560" height="315" src="https://www.youtube.com/embed/hYoRMqkN_TI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ---->
+
+
+## What was the business problem?
+
+A big supermarket franchise opened a supermarket in the neighbourhoud where the butches is located. 
+This resulted in more competition for the butcher, which would be very challenging since the supermarket can more easily compete through discounts and lower prices. 
+
+The butcher initially did not know how to compete with the supermarket. 
+
+## How was it translated into a data mining problem?
+
+The butcher wanted to know how many people walked past the store every day. 
+They did this through picking up signals from mobile devices. 
+This was possible because the mobile devices constantly send out a bluetooth or WiFi signal which could be picked up. 
+
+Besides tracking customer traffic they have placed camera's in the store that monitor the amount of people in the store and what they are looking at. 
+And the butcher extracts data off the weather predictions to see what kind of products they have to produce. 
+
+## What is the realized business value?
+
+###In general
+Competing with the supermarket and realizing more revenue through better marketing. 
+
+###In specific
+They could experiment with new marketing messages and see the real time impact.  
+Use weather predictions to know which products they need to produce. 
+Identifying trends through monitoring customers in the store. 
+
+
+
+
+
+
+
+
+
+
+
+  
