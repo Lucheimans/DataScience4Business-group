@@ -1,0 +1,104 @@
+---
+title: "Assigment - Data Driven Decision Making"
+author: Qiwen Chen
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8M5n3uhWKHE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
+## Why was data driven decision making (3DM) useful in this business case?
+
+Netflix is successful business with large amount of subscribers and has well-developed target markets throughout the world. According to Provost & Fawcett (2013), Data-driven decision-making (DDD) refers to the practice of basing decisions on the analysis of data, rather than purely on intuition. In this case, Netflix has using AI and data at the core of its business strategy and in many areas. First of all, Netflix uses data to have a better understanding in its customers to produce new contents/productions (movies, TV series). Moreover, it can give personalized recommendation of contents and thumbnails to each customers based on the data. It also uses AI and big data in its streaming optimization and production process. Therefore, it wouldn't be so success without the use of 3DM.
+
+## How did the organization apply 3DM?
+
+As mentioned above, Netflix is putting AI and data at its core operations, so it also applies 3DM in its daily operations as well. For example, Netflix is able to recommend new movies and TV series to its customers by noticing that each customer only take about a minute and half to find the next video, so Netflix putting efforts in the use of algorithms to analyze each customers to show the most attractive thumbnails to each one. It is able produce highly successful contents/productions, not just for the mass market, but also for the niche market by understanding the customers data and behaviors, which boosts the success rate of newly produced content from traditional 30-40% to 80%. Furthermore, it has used AI during the pre and post production of the contents. For pre-production, AI tools can find the suitable location and actors, where the camera teams should and what sort of scenes required, etc. Quality checks are driven by AI during the post-production process to notice and correct mistakes. Lastly, Netflix make uses of machine learning algorithms to determine which films might need to connect to the regional server to ensure and monitor film quality to optimizate its streaming. These are some examples how Netflix apply 3DM.
+
+## What can the organization do with 3DM that they couldn’t do before?
+
+Before applying 3DM, Netflix couldn't able to do most of the things that it is doing now. It won't able to know and serve its customers' wants and needs so well as it did now, and it won't able to rank the film into categories, such as the top 10 horror movies without the support of data. The most important point is that it won't be so success and lead in the industry by replacing the traditional TV without using 3DM in its operation. With data, Netflix is able to make the more effective and efficient decisions to serve its market.
+
+---
+title: "Assigment - Data Problems vs Data Solutions"
+author: Qiwen Chen
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EN77cq53Dfw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
+Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, diesel and natural gas engines, industrial gas turbines, and diesel-electric locomotives (Caterpillar, 2021). Caterpillar Inc. has about 20 portfolio of brands that offers machines, engines, components, services and solutions to meet the unique needs of a variety of industries and customers around the world. 
+
+## What was the business problem?
+
+In this case, the Marine Division of Caterpillar mainly provides services to ship operators. There are two large costs that Caterpillar is taking into account, which are fuel and hull clean in every two years. Hull clean is to take the ship out of the water to clean the deposits that slow the ship and cause more fuel consumption, so it is necessary to do this to improve performance. The problem is that hull clean for every two years costs a lot, and Caterpillar want to reduce the costs. Moreover, they also want to optimize the energy use in the refrigerated container ships.
+
+## How was it translated into a data mining problem?
+
+Therefore, Caterpillar wants to use data to optimize this problem. With the use of data, it can answers different questions; such as how often should hull clean be taking place, less frequent or more frequent. In this case, they collected data on fuel consumption, ships' speed and the performance before and after the hull clean. They found out that a clean hull made a big difference in term of speed and fuel consumption. Eventually, they adjust the hull clean from every two years to every 6 months. Caterpillar is able to save $400,000 per ship in a yearly basis with understanding the data that they get. 
+For the container ships, they did the similar process that they collected a bunch of data on the refrigerated containers and answer questions, such as how can they optimize the energy in the generators to power these containers' cooling units. They are also able to use these data to slightly tweak the generator that is able to power the cooling and also reduce a bit of energy. This affects a $30 savings per hour, which is a lot when calculating in a yearly basis.
+
+## What is the realized business value?
+
+From the above use of data, Caterpillar is really taking the advantage of data mining and data driven decision making into account to drive performance and improve efficiency by just looking at some specific data and adjust a bit based on the insights. Consequently, this assists Caterpillar to save millions of dollars per year. To conclude, the realized business values in this case are drive performance, improve efficiency and reduce costs.
+
+Caterpillar. (2021). About Caterpillar. Retrieved from https://www.caterpillar.com/en/company.html 
+
+---
+title: "Assigment - Data Driven Business"
+author: Qiwen Chen
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QlqI0gGOjo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
+Shell are a global group of energy and petrochemical companies with more than 80,000 employees in more than 70 countries, which use advanced technologies and take an innovative approach to help build a sustainable energy future (Shell, 2021). Therefore, Shell is a well-developed data driven company.
+
+## What features define a data driven business?
+
+The following are features of a data driven business in the opinion of this video:
+- Data Culture
+- Relevant Technologies
+- Data Literacy
+- Democratized data
+- Users understanding and knowledge
+
+## What are the important features of a data culture?
+
+The professional from Shell indicated that the following are the main features of a data culture:
+- Skills: the professionals(such as data scientists, data engineers) are the core that they need to continue learn about the new technologies and develop the new solutions for the organization, so tailored training program are important for those people
+- Knowledge: the other employees that need to use the data in the business also need to learn about the important and use of data, so they can develop an interest and become a habits for them to use the data knowledge and language
+- Data: it is definitely important to understand the data and ensure the quality of data to make effective use of it, and it is a vital asset of a company
+- People: ensure they have the knowledge about the data and technologies and allow their access of data to make use of the data during the work, and the people have trust on data will assist them
+
+## What are the transformation steps towards a mature data driven business?
+
+According to Shell, they have transformed towards a mature data driven business in the following steps:
+- Learn from best practice and the market
+- Bring in the expertise
+- Align data strategy with the business strategy
+- Understand the challenges and goals 
+- Employ the relevant technologies and data lakes
+- Train the professionals with the relevant skills
+- Teach and build a knowledge on the data/technologies with the employees
+- Engage employees to have a interest 
+- Use the necessary data for each situations
+- Get the useful insights to perform excellent.
+
+## Reference
+
+Shell Global. (2021). About Us. Retrieved from https://www.shell.com/about-us.html
