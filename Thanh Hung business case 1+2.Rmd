@@ -1,0 +1,53 @@
+---
+title: "Assigment - Data Driven Decision Making"
+author: name author here
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8M5n3uhWKHE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe> 
+
+## Why was data driven decision making (3DM) useful in this business case?
+
+Netflix has the advantage of an online movie-watching platform that can track (on a large scale) the user's viewing rate and completion rate. For example, could Netflix collect data on how many users who started watching Game of throne (from season 1) completed it through season 3? For example, 70%. At the same time, where is Netflix also able to get data on what are popular viewing stops for users? What did the other 30% of users do? What is the time gap when consumers watch one episode and when they watch the next?
+
+## How did the organization apply 3DM?
+
+Netflix collects customer feedback and interaction data with a television show in real time. For example, Netflix knows the time and date the user watched a show, the device used, if the show is paused, will the viewer continue watching after pausing. Netflix even has screenshots of scenes people may have watched multiple times, what ratings are given, how many searches, and what content is searched. With this data, Netflix is able to create detailed profiles of its users. From there, Netflix uses a recommendation algorithm to recommend TV shows and movies based on user preferences.
+
+
+## What can the organization do with 3DM that they couldn’t do before?
+
+Netflix even uses big data and data analytics to do custom marketing. For example, to promote a movie Netflix will cut more than ten different versions of the trailer to promote the show. If you've watched a lot of TV shows focusing on women, you'll have a trailer focusing on female characters. Netflix doesn't have to spend too much time and resources on program marketing because they already know how many people will be interested in it and what will encourage them to tune in.While in the past, the company took a lot of time to synthesize and track customers in a traditional approach.
+
+
+
+
+
+
+
+## BUSINESS PROBLEM DATA SOLUTION 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4F40SsEFyY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
+
+## What was the business problem?
+
+Small farmers business in today world are facing a lot of problems such as the competition from big factory farmers ,unreliable  weather conditions leads to difficult demand forecasting, the farmers don't know what time they should harvest their products and how many products they should harvest . The short shelf life of their products is also an condition need to be monitored to prevent product spoiling during transportation or after it is delivered to the customer.
+
+## How was it translated into a data mining problem?
+
+Based on the case study in the video mentioned above, to solve this problem they built an ecommerce site to collect and track buyers' data,
+Based on customer registration data they can create a predictive chart of demand for farmers from which orders will be processed weekly, and selling online will help farmers. is not limited by the surrounding geography and the number of markets they can sell.
+in addition, demand data will allow the farmer to predict which crops will be planted next in the future or how much will be harvested.
+The last is to use data from deliveries to optimize shipping routes.
+
+
+## What is the realized business value?
+
+The use of bigdata to analyze and plan cultivation and sales of small farms helps to build a better and comprehensive food system.
+Using customer demand forecasting data helps farmers know how many they have to grow and harvest for which varieties,this can improve food wastage due to some products with short lifecycle rot
+In addition, the farmers can exchange data with each other to bench mark, which in turn can help each other come up with more effective strategies in the future.
+ 
