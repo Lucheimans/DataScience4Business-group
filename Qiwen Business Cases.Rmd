@@ -52,3 +52,53 @@ For the container ships, they did the similar process that they collected a bunc
 From the above use of data, Caterpillar is really taking the advantage of data mining and data driven decision making into account to drive performance and improve efficiency by just looking at some specific data and adjust a bit based on the insights. Consequently, this assists Caterpillar to save millions of dollars per year. To conclude, the realized business values in this case are drive performance, improve efficiency and reduce costs.
 
 Caterpillar. (2021). About Caterpillar. Retrieved from https://www.caterpillar.com/en/company.html 
+
+---
+title: "Assigment - Data Driven Business"
+author: Qiwen Chen
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QlqI0gGOjo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
+Shell are a global group of energy and petrochemical companies with more than 80,000 employees in more than 70 countries, which use advanced technologies and take an innovative approach to help build a sustainable energy future (Shell, 2021). Therefore, Shell is a well-developed data driven company.
+
+## What features define a data driven business?
+
+The following are features of a data driven business in the opinion of this video:
+- Data Culture
+- Relevant Technologies
+- Data Literacy
+- Democratized data
+- Users understanding and knowledge
+
+## What are the important features of a data culture?
+
+The professional from Shell indicated that the following are the main features of a data culture:
+- Skills: the professionals(such as data scientists, data engineers) are the core that they need to continue learn about the new technologies and develop the new solutions for the organization, so tailored training program are important for those people
+- Knowledge: the other employees that need to use the data in the business also need to learn about the important and use of data, so they can develop an interest and become a habits for them to use the data knowledge and language
+- Data: it is definitely important to understand the data and ensure the quality of data to make effective use of it, and it is a vital asset of a company
+- People: ensure they have the knowledge about the data and technologies and allow their access of data to make use of the data during the work, and the people have trust on data will assist them
+
+## What are the transformation steps towards a mature data driven business?
+
+According to Shell, they have transformed towards a mature data driven business in the following steps:
+- Learn from best practice and the market
+- Bring in the expertise
+- Align data strategy with the business strategy
+- Understand the challenges and goals 
+- Employ the relevant technologies and data lakes
+- Train the professionals with the relevant skills
+- Teach and build a knowledge on the data/technologies with the employees
+- Engage employees to have a interest 
+- Use the necessary data for each situations
+- Get the useful insights to perform excellent.
+
+## Reference
+
+Shell Global. (2021). About Us. Retrieved from https://www.shell.com/about-us.html
