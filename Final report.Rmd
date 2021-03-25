@@ -1,0 +1,31 @@
+---
+title: "Final report"
+authors: "Luc heimans", "Qiwen Chen", "Daan Plass", "Thanh Hung Le"
+date: "3/25/2021"
+output: html_document
+---
+
+## Structure:
+
+# Introduction (Luc)
+
+
+# Business case 1 results + combination bc all same company (infographic) (Daan)
+# Highlight significant similarities/ differences
+
+
+# Business case 2 results + comparison (infographic) (Qiwen)
+# Highlight significant similarities/ differences
+
+
+# Business case 3 results + comparison (infographic) (Thanh)
+# Highlight significant similarities/ differences
+
+
+# Conclusion (Luc)
+
+# Reference list (Luc)
+
+
+
+## Create presentation? (Qiwen)
