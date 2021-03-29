@@ -50,4 +50,68 @@ The last is to use data from deliveries to optimize shipping routes.
 The use of bigdata to analyze and plan cultivation and sales of small farms helps to build a better and comprehensive food system.
 Using customer demand forecasting data helps farmers know how many they have to grow and harvest for which varieties,this can improve food wastage due to some products with short lifecycle rot
 In addition, the farmers can exchange data with each other to bench mark, which in turn can help each other come up with more effective strategies in the future.
+
+
+
+
  
+ 
+## DATA DRIVEN BUSINESS 
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/teiKo9oUG6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
+## What features define a data driven business?
+According to Techopedia, Data-driven is an adjective used to refer to a process or activity driven by data, as opposed to being driven by intuition or personal experience. In other words, the term refers to decisions made with specific empirical evidence and not based on temporary speculations or inferences for no valid reason. In practical operations, data-driven is being used in many fields, but most commonly in the fields of technology and business.
+
+Based on the above definition, we can understand that Data-driven enterprise is a company in which new business decisions, strategies or business models are made based on the obtained results. from the process of exploiting and analyzing reliable and good quality data sources. To put it simply, regardless of the business, which company uses data analysis to come to a decision, it is called data driven.
+
+For example, based on data collected from customers, Amazon has embraced their mentality and behavior to come up with technology solutions for add-ons such as Amazon Alexa (self-co-based customer care robot system. on AI technology) - fast shopping support and limited movement to brick and mortar stores.
+
+
+
+## What are the important features of a data culture?
+According to harvard business review and Amazon web service (AWS) to establish business efficiency with focus around data .Characteristics of data oriented companies should include:
+
+- Balancing the quantity and quality of internal and external data to ensure efficiency in data storage and extraction to avoid overload and interference
+- C-suite is also an important factor, the Board of Directors not only understands what's going on internally, but can also possess useful external information like trends and important news.
+that we may not know. Therefore, an integral part of a data-focused and focused culture is the regular holding of many knowledge sharing sessions with senior management.
+
+- The data is easily accessible by employees, the ease of being here does not mean that the employee can access any data, but the employee can access the data they need quickly. fast and simple through tools such as smart phones, laptops, etc ...
+
+- Data-oriented companies need to have a complete data management system with policies and requirements set out in data management, to ensure data management and improvement, especially master data.
+
+
+
+## What are the transformation steps towards a mature data driven business?
+
+Basic steps for businesses to successfully digital transformation :
+
+1. Evaluate the current status and expectations of the business
+
+The first step in the digital transformation process is for a leader to be clear about the digital transformation in the business and to understand market trends. Leaders need to spend time thinking about an end result that digital transformation will bring, such as prioritizing increasing sales or reducing uptime.
+
+2. Evaluate the enterprise's willingness to convert digitally
+This job requires businesses to meet two factors: people and data.
+- Human factors
+This is the most important factor. After all, technology is just a tool. In other words, the success of technology transformation will be determined in the mindset and vision from the leadership levels to all employees.
+
+- Data factor
+Data is an indispensable component in building digital transitions. However, in addition to analyzing existing data within the enterprise, executives need to pay attention to the data of their strategic partners as well as their competitors. From there, have an overview of the enterprise value chain before entering the race of technology transformation.
+
+3. Review the process to make the necessary changes and select the right technology
+More specifically, after understanding what the business data is reflecting, leaders need to see the signs to gauge a business's process maturity. From there, businesses can know where they are and are ready for the technology transformation or not. Again, decision makers should not rely on visual inferences, but need the most specific and detailed data to find a reasonable direction for the business.
+
+4. Create an open feedback culture
+
+Digital transformation cannot be successful if it only comes from the leadership of the business. Open communication is a key component in building a technology transformation process. Management and employee feedback play an important role together. Based on this feedback, leaders can make changes to optimize training effectiveness. To encourage constructive feedback, foster open discussions, open mind, and collaborate.
+
+## REFERENCES :
+
+10 Steps to Creating a Data-Driven Culture. (2020, February 6). Retrieved March 25, 2021, from https://hbr.org/2020/02/10-steps-to-creating-a-data-driven-culture
+
+How to Create a Data-Driven Culture. (2020, September 2). Retrieved March 25, 2021, from https://aws.amazon.com/vi/blogs/enterprise-strategy/how-to-create-a-data-driven-culture/
+
+Jolly, D. (2017, September 28). What Amazon can teach us about digital transformation in manufacturing. Retrieved March 25, 2021, from https://www.nukon.com/blog/what-amazon-can-teach-us-about-digital-transformation-in-manufacturing
+
+Techopedia. (2016, May 24). Data Driven. Retrieved March 25, 2021, from https://www.techopedia.com/definition/18687/data-driven?utm_content=resources.base.vn/management/de-tro-thanh-doanh-nghiep-data-driven-651
+
