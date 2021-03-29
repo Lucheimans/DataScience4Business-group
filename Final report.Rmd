@@ -37,13 +37,16 @@ Eye catching
 # Business case 3 results + comparison (infographic) (Thanh)
 # Highlight significant similarities/ differences
 
-
 # Conclusion (Luc)
 
+After conduction the case studies, we can say that we got a better idea of how data science is related to practice. Companies can gain a competitive advantage through using (big) data by extracting useful information out of it to improve and aid decision making.
+
+To conclude our case studies the following findings stood out most to us:
+
+- Even small companies such as a butcher shop in London can make use of IoT devices to gather (big) data, which can then be analyzed and aid decision making.
+- As derived from the case studies on Shell, data only becomes truly useful when linked to the business effectively and to do this one should design a data strategy. Data usage without a strategy will not yield the wanted results according to Shell.
+- For effective usage of data science in business, business translators are vital to form a bridge between the data scientists and the business.
+
 # Reference list (Luc)
-
-Book
-https://www.educba.com/data-science-vs-data-mining/
-
 
 ## Create presentation? (Qiwen)
