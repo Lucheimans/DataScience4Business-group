@@ -31,8 +31,19 @@ Eye catching
 
 
 # Business case 2 results + comparison (infographic) (Qiwen)
-# Highlight significant similarities/ differences
 
+Now I will continue with the data problem vs data solutions cases how big and small business use data. The analysis of the cases are based on these three questions from define business problem to data mining problems and business value being achieved.  
+
+I will start with small business that used data and technologies to overcome with its competitor when a large supermarket opened next to a butcher store. the butcher scared that they won’t able to be against with. Luckily, with the use of technologies and data, such as picking mobile signal from passengers and monitoring the customers preferences, butcher are able to come up with unique and attractive offers, such as bbq special for sunny days. This actually make the butcher store more competitive and increase its revenue.
+
+Moreover, Caterpillar have gathered relevant data to find out  insight to reduce its costs. In this case, hull clean is one of its largest costs for ship maintenances that happened every two years. they use the data to analyze the effects of hull clean to see if hull clean can happen less frequently. Well, they decided to clean every 6 months as it makes a big difference to the fuel consumption. Now they improve efficiency and save $400,000 per ship in yearly basis.
+
+Looking back at the small farmers business, they have a lot difficulties nowadays that they don’t know when and how much the harvesting will bring or what the demand would be like.
+Thanks to technologies, they are able to use an e-commerce site to track the customers data to predict the demand for each crops and more. This eventually assists the farmers to  improve in all areas, when to plant what and have a larger market, especially Build a better and comprehensive food system.
+
+The last case is about airbnb that it want to make a comparative analysis on the price and listing trends of LA and NY to spot differences between the two and bring them more close to each other. they spilt it into data mining problems to use the relevant data and crisp model to analyze the differences in distributions of listing property sizes and etc. The analysis and data mining outcome helped in price based decision making as the conclusions offered insight into the difference in pricing of both locations and enabled decision making to decrease the price differences between LA and NY.
+
+Now my colleague will continue with the next cases.
 
 # Business case 3 results + comparison (infographic) (Thanh)
 # Highlight significant similarities/ differences
