@@ -5,9 +5,25 @@ date: "3/25/2021"
 output: html_document
 ---
 
+The authors of the following report are: Luc Heimans, Qiwen Chen, Daan Plass, and Thanh Hung Le. All four of us are currently participating in the minor Data Driven Decision making in Business at HAN University of Applied sciences. All students study International Business and are currently in our 3rd year of this study.*picture crisp dm model*
+
 ## Structure:
 
 # Introduction (Luc)
+
+According to F. Provost et al. (2019), data science is a scientific domain which involve principles, processes and techniques for understanding phenomena via (automated) analysis of data. F. Provost et al. (2019) views data science as an aid in improving decision making and is generally extremely relevant to business. Data science has many domains which fall under it; data mining, data analytics and so forth. Data mining is the process of extracting knowledge from data via technologies which follow data science principles (F. provost et al, 2019). 
+Data science might be considered similar to data mining, however there are some significant differences between these subjects. According to P. Pedamkar (n.a.), data science is a multidisciplinary scientific study wherein data mining is a certain task. Furthermore, the purpose of data science is very wide, it ranges from creating predictive models to unmasking unknown facts whereas data mining is only about finding trends in data previously not known. 
+
+Data science should even be considered a strategic asset according to F. Provost et al. (2019) as it can help shift the decision making of a business from an intuitive approach to a scientific one. A classical example of a business thriving on data science and its domains is Amazon which uses data science extensively throughout its organization, from the order picking process to the product recommendation system (F. provost et al, 2019).
+
+The following document will dive deeper into cases of businesses making use of data science, such as Amazon. The cases are assessed based on three subjects predetermined by Mr. Witek Ten Hove, senior researcher and instructor at HAN University of Applied Sciences. Starting with data driven decision making which is followed by business problems and data solutions. The document closes with the subject data driven business. All subjects involve different business cases which are then analyzed by each of the authors of this document.
+
+
+Eye catching
+
+- To the topic (data science)
+- Approach to this document
+- Document contents
 
 
 # Business case 1 results + combination bc all same company (infographic) (Daan)
@@ -21,11 +37,16 @@ output: html_document
 # Business case 3 results + comparison (infographic) (Thanh)
 # Highlight significant similarities/ differences
 
-
 # Conclusion (Luc)
 
+After conduction the case studies, we can say that we got a better idea of how data science is related to practice. Companies can gain a competitive advantage through using (big) data by extracting useful information out of it to improve and aid decision making.
+
+To conclude our case studies the following findings stood out most to us:
+
+- Even small companies such as a butcher shop in London can make use of IoT devices to gather (big) data, which can then be analyzed and aid decision making.
+- As derived from the case studies on Shell, data only becomes truly useful when linked to the business effectively and to do this one should design a data strategy. Data usage without a strategy will not yield the wanted results according to Shell.
+- For effective usage of data science in business, business translators are vital to form a bridge between the data scientists and the business.
+
 # Reference list (Luc)
-
-
 
 ## Create presentation? (Qiwen)
